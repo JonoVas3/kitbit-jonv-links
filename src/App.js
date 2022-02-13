@@ -20,7 +20,7 @@ function App() {
         <Container maxWidth={false} sx={{  bgcolor:'#ff6a00', padding:'0 !important', height:'100%' }} >
             <Grid container spacing={0} sx={contentGrid} >
               <Grid item xs={12} sm={12} md={12} lg={3} xl={3} sx={desktopLinks}>
-                <List sx={{listStyle:'none', float:'right', marginTop:'150px'}}>
+                <List sx={{listStyle:'none', float:'right', marginTop:'50px'}}>
                   <ListItem>
                     <Box sx={{width:'300px', margin:'0 auto', textAlign:'center'}}>
                     <Typography sx={{color:'White',textTransform:'uppercase',fontWeight:'900', fontSize:'24px', fontFamily:'Raleway'}}>KitBit Copsplay</Typography>
